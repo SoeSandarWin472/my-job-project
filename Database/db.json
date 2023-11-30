@@ -1,0 +1,7 @@
+{
+    "jobs":[
+        {"title":"project manager","id":1,"details":"creative coder manager"},
+        {"title":"web developer","id":2,"details":"creative coder web developer"},
+        {"title":"mobile developer","id":3,"details":"creative coder mobile developer"}
+    ]
+}
